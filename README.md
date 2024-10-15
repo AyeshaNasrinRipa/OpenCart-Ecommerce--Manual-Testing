@@ -11,34 +11,20 @@ This repository contains all the manual testing documents related to OpenCart, a
 
 ## Functionalities Covered
 
-1. **Register**: 
-   - Test cases for new user registration on OpenCart.
-2. **Login**: 
-   - Test scenarios for user login with both valid and invalid credentials.
-3. **Logout**: 
-   - Verifying successful user logout and session termination.
-4. **Search**: 
-   - Testing the search functionality for different products.
-5. **Product Display Page**: 
-   - Ensuring product details, images, and descriptions are accurate.
-6. **Add to Cart**: 
-   - Functionality to add products to the shopping cart.
-7. **Shopping Cart**: 
-   - Managing items in the cart, updating quantities, and reviewing selections.
-8. **Home Page**: 
-   - Verifying components such as banners, product listings, and navigation on the home page.
-9. **My Account**: 
-   - Testing account-related features for users.
-10. **Change Password**: 
-   - Test cases for changing the user's account password.
-11. **Order History**: 
-   - Ensuring accurate display and accessibility of past orders.
-12. **Contact Us**: 
-   - Testing the functionality of the contact form for user queries.
-13. **Header Menu**: 
-   - Verifying links and dropdown navigation in the header.
-14. **Footer Options**: 
-   - Testing footer links, site information, and policies.
+1. **Register**: Test cases for new user registration on OpenCart.
+2. **Login**: Test scenarios for user login with both valid and invalid credentials.
+3. **Logout**: Verifying successful user logout and session termination.
+4. **Search**: Testing the search functionality for different products.
+5. **Product Display Page**: Ensuring product details, images, and descriptions are accurate.
+6. **Add to Cart**: Functionality to add products to the shopping cart.
+7. **Shopping Cart**: Managing items in the cart, updating quantities, and reviewing selections.
+8. **Home Page**: Verifying components such as banners, product listings, and navigation on the home page.
+9. **My Account**: Testing account-related features for users.
+10. **Change Password**: Test cases for changing the user's account password.
+11. **Order History**: Ensuring accurate display and accessibility of past orders.
+12. **Contact Us**: Testing the functionality of the contact form for user queries.
+13. **Header Menu**: Verifying links and dropdown navigation in the header.
+14. **Footer Options**: Testing footer links, site information, and policies.
 
 ## How to Use
 
